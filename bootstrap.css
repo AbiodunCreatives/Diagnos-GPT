@@ -81,12 +81,13 @@
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important; } }
-
 *,
 *::before,
 *::after {
   box-sizing: border-box; }
-
+.text-green {
+  white-space: nowrap;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
